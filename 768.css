@@ -1,0 +1,534 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   }
+@media only screen and (min-width: 768px) {
+    .header{
+        width: 100%;
+        height: 80px;
+         background-color: #020a17;
+        display: flex;
+        position: fixed;
+       
+    }
+    .logo{
+        margin-left: 45px;
+        cursor: pointer;
+    }
+    #logo{
+        margin-top: 5px;
+    }
+    .baricon{
+        color: white;
+       margin-top: 35px;
+       margin-right: 45px;
+       cursor: pointer;
+        
+    }
+    .links{
+        margin-top: 25px;
+        padding-left: 9%;
+        word-spacing: 25px;
+        width: 85%;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        
+    }
+
+/* PART ONE  */
+    .ourstory{
+  
+    width: 100%;
+    height: 800px;
+    display: block;
+    /* border: 2px solid; */
+}
+.ourstorychild1{
+/* border: 2px solid yellow; */
+    width: 95%;
+    margin-top:10%;
+    height: 400px;
+    font-size:xx-large;
+    font-weight: 55px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.ourstorychild2{
+    /* border: 2px solid yellow; */
+    width: 95%;
+    height: 550px;
+    margin-top: 5%;
+    margin-right: 25px;    
+}
+.boldletters{
+    display: flex;
+}
+div .about{
+    margin-left: 95px;
+}
+
+.breadimg{
+   margin-left: 13.5%;
+   width: 78%;
+   /* border: 1px solid red; */
+     
+}
+#para1{
+    font-family: 'Oxygen', sans-serif;
+    color: grey;
+    margin-top: 40px;
+    margin-left: 95px;
+    margin-right: 100px;
+    font-size: 16px;
+    line-height: 24px;
+}
+#para2{
+    font-family: 'Oxygen', sans-serif;
+    color: grey;
+    margin-top: 25px;
+    margin-left: 95px;
+    margin-right: 100px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.button1{
+    width: 145px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #f4192f;
+    color: white;
+    margin-left: 95px;
+    margin-top: 45px;
+    cursor: pointer;
+}
+
+/* HONEY PART */
+
+ .honeyimage{
+    width: 75%;
+    margin-left: 12%;
+}
+.honeychoclatepie{
+    margin-top: 40%;
+}
+.honeychoclatepie2{
+    width: 70%;
+    margin-left: 12%;
+}
+.para-1{
+    font-size: 16px;
+    line-height: 24px;
+    color: grey;
+    font-family: 'Oxygen', sans-serif;
+}
+.para-2{
+    font-size: 16px;
+    line-height: 24px;
+    color: grey;
+    font-family: 'Oxygen', sans-serif;
+    
+}
+.button1h{
+    width: 145px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #f4192f;
+    color: white;
+    margin-left: 2px;
+    margin-top: 45px;
+    cursor: pointer;
+}
+
+
+/* PART 3 STARTER BOX  */
+
+
+.main2{
+    width: 98%;
+    height: 900px;
+    margin-top: 80px;
+    /* border: 2px solid; */
+    display: block;
+}
+
+.ourmenu{
+    font-size: 50px; line-height: 1px;  margin-top: 150px; margin-left: 30%;
+}
+.explore{
+    line-height: 25px;
+    margin-top: 40px;
+    margin-left: 40%;
+    font-size: 15px;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    /* border: 2px solid yellow; */
+}
+
+.para-3{
+    font-family: 'Oxygen', sans-serif;
+    color: grey;
+    margin-left: 18px;
+   margin-right: 80px;
+    font-size: 16px;
+    margin-top: 25px;
+    /* margin-bottom: 45px; */
+    /* border: 2px solid; */
+
+}
+
+.starterbox{
+    margin-top: 120px;
+    width: 65%;
+    height: 95%;
+    /* border: 2px solid red; */
+    margin-left: 150px;
+
+    line-height: 24px;
+    display: block;
+    font-size: small;
+ 
+}
+
+.starter{
+   max-width: auto;
+    height: 50%;
+    /* border: 2px solid; */
+    margin-left: 4%;
+    top: 0%;
+}
+.starterimage{
+    margin-top: 50%;
+  
+}
+.burger{
+    width: 112%;
+    position: relative;
+    right: 7%;
+    z-index: -1;
+}
+hr{
+    color: black;
+    width: 90%;
+}
+
+.wonton{
+    width: 90%;
+    margin-top: 25px;
+    height: 22px;
+    margin-left: 8px;
+    /* border: 2px solid green; */
+    display: flex;
+    font-size: 15px;
+}
+.five{
+    margin-left: 300px;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.para-3rd{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: medium;
+    margin-left: 12px;
+    color: grey;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;  
+}
+.wonton-2{
+    width: 90%;
+    margin-top: 15px;
+    height: 25px;
+    /* border: 2px solid green; */
+    display: flex;
+    font-size: 15px;
+}
+.menublackshade{
+    margin-top: 70px;
+    width: 550px;
+    height: 780px;
+    z-index: -1   ;
+    position: absolute;
+    left: 15%;
+    background-color: #6c757d16;
+}
+
+/* FILIPINO GAMEZ */
+
+
+.filipino{
+    width: 80%;
+    height: 600px;
+    /* border: 2px solid red; */
+    margin-top: 72%;
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 14%;
+    font-size: 16px;
+    line-height: 25px;
+    
+}
+.filipinoimage{
+    margin-left: 33%;
+    margin-top: 110px;
+    /* border: 2px solid; */
+ 
+}
+.filipinoabout{
+    width: 53%;
+    height: 280px;
+    /* border: 2px solid black; */
+    color: grey;
+    margin-left: 33%;
+    
+}
+.filipinogamez{
+    font-size: 20px;  color: black; line-height: 10px; margin-top: 35px;
+    margin-bottom: 15px;
+}
+.filipinopara{
+    font-style: italic;
+    margin-top: 13px;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif; 
+}
+.FILIPINOblackshade{
+   background-color: white;
+}
+
+/* TABLE FORMAT */
+
+
+.table{
+    width: 90%;
+    height: 890px;
+    /* border: 2px solid red; */
+    display: block;
+    gap: 6%;
+    margin-top: 150px;
+}
+
+.desert{
+    width: 80%;
+    margin-left: 110px;
+    margin-top: 83px;
+}
+
+.tableform{
+    width: 700px;
+    height: 750px;
+    /* border: 2px solid red; */
+    margin-top: 100px;
+}
+.tablepara{
+    width: 65%;
+    color: grey;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif; 
+    margin-top: 35px;
+    margin-bottom: 48px;
+    margin-left: 22.5%;
+}
+.bookatable{
+    font-size: 50px;  color: black; line-height: 18px; margin-left: 155px; margin-top: 135px; 
+}
+
+.blackthemetable{
+    width: 560px;
+    height: 600px;
+    margin-top: -85px;
+    background-color: #6c757d16;
+    position: absolute;
+    left: 14%;
+
+    color: grey;
+    z-index: -1;
+}
+
+input{
+    outline: none;
+    width: 60%;
+    height: 35px;
+    margin-left: 160px;
+    margin-bottom: 18px;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    border: none;
+    outline: none;
+    
+}
+
+input::placeholder{
+    padding: 15px;
+}
+
+#event{
+    padding: 7px;
+    color: rgb(121, 115, 115);
+    outline: none;
+    width: 60%;
+    height: 40px;
+    margin-left: 160px;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: none;
+    outline: none;
+}
+
+.make{
+    width: 145px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #f4192f;
+    color: white;
+    margin-left: 40%;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
+
+/* FOOTER PART */
+
+
+.mainfooter {
+    width: 99.5%;
+    height: 990px;
+    border: 2px solid #020a17;
+    margin-top: 70%;
+    background-color: #020a17;
+}
+
+.footerbox {
+    margin-top: 100px;
+    width: 95%;
+    height: 710px;
+    margin-left: 5%;
+    /* border: 2px solid teal; */
+    display: block;
+    
+}
+
+.firstfootercontent {
+    font-size: 18px;
+    color: black;
+    line-height: 18px;
+    line-height: 25px;
+    font-size: 18px;
+    margin-left: 15%;
+    display: flex;
+    
+
+}
+
+.firstrow {
+    margin-bottom: 32px;
+    color: white;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 15px;
+    font-size: 15px;
+    color: gray;
+}
+
+.secondsection {
+   
+    margin-left: 25%;
+}
+
+.secondfootercontent {
+    font-size: 18px;
+    color: black;
+    line-height: 18px;
+    line-height: 25px;
+    font-size: 18px;
+    margin-left: 15%;
+    margin-top: 3%;
+    display: flex;
+}
+.resources{
+    margin-left: 30%;
+}
+
+.footerpartemail {
+   
+    position: relative;
+    /* border: 2px solid; */
+    margin-top: 42%;
+    margin-left: -68%;
+
+}
+
+.footerinput {
+    margin-top: 12px;
+    width: 295px;
+    height: 35px;
+    display: flex;
+    border: none;
+    outline: none;
+    margin-left: 0%;
+}
+
+input::placeholder {
+    padding-left: 12px;
+}
+
+.footerP {
+    margin-top: 30px;
+}
+
+#arrowicon {
+    color: white;
+    padding: 12px;
+    margin-top: 5px;
+
+}
+
+.arrowbox {
+    width: 52px;
+    height: 36px;
+    border: 2px solid black;
+    background-color: red;
+    position: absolute;
+
+    right: -15%;
+    top: 61.5%;
+}
+
+.copyright {
+    margin-left: 110px;
+    /* border: 2px solid black; */
+    width: 475px;
+    color: rgba(255, 255, 255, 0.593);
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.footerlastpart {
+    display: flex;
+
+}
+
+.socialmediaicons {
+    position: relative;
+    left: 10%;
+    font-size: 25px;
+    color: white;
+}
+
+}
